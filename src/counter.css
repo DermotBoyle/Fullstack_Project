@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+div.buttons {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+span.num {
+  font-size: 18px;
+  margin-left: 2rem;
+}
